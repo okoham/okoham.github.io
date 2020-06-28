@@ -24,3 +24,9 @@ This description: from https://en.wikipedia.org/wiki/Pippi_Longstocking
 * does not want to grow up
 * tells adventure stories
 
+A quote (from https://www.astridlindgren.com/en/characters/pippi-longstocking)
+
+> Oh, said Pippi. 
+> Today must be my lucky day again. 
+> I like policemen best of all. 
+> After rhubarb jam that is.
