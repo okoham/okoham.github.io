@@ -18,9 +18,9 @@ This description: from https://en.wikipedia.org/wiki/Pippi_Longstocking
 
 ## Pippis Character Traits
 
-- superhumanly strong
-- playful
-- unpredictable
-- does not want to grow up
-- tells adventure stories
+* superhumanly strong
+* playful
+* unpredictable
+* does not want to grow up
+* tells adventure stories
 
