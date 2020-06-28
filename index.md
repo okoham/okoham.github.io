@@ -15,3 +15,12 @@ best friends are her horse and monkey, and the neighbours' children, Tommy and
 Annika.
 
 This description: from https://en.wikipedia.org/wiki/Pippi_Longstocking
+
+## Pippis Character Traits
+
+* superhumanly strong
+* playful
+* unpredictable
+* does not want to grow up
+* tells adventure stories
+
