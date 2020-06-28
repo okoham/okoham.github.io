@@ -30,3 +30,9 @@ A quote (from https://www.astridlindgren.com/en/characters/pippi-longstocking)
 > Today must be my lucky day again. 
 > I like policemen best of all. 
 > After rhubarb jam that is.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Puertollano_-_Jardines_Pedro_Poveda_2.jpg/640px-Puertollano_-_Jardines_Pedro_Poveda_2.jpg">
+
+
+
+
